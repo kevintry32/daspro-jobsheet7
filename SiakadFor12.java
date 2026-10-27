@@ -18,11 +18,9 @@ public class SiakadFor12 {
             if (nilai > tertinggi) {
                 tertinggi = nilai;
             }
-
             if (nilai < terendah) {
                 terendah = nilai;
             }
-
             if (nilai >= 60) {
                 lulus++;
             } else {
